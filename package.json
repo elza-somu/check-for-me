@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elza-somu/check-for-me/issues"
   },
-  "homepage": "https://github.com/elza-somu/check-for-me#readme"
+  "homepage": "https://github.com/elza-somu/check-for-me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
